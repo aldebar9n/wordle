@@ -21,10 +21,10 @@ body {
     margin: 0 auto;
     padding: 10px 20px;
     font-size: 18px;
-    background-color: #37c52a; 
+    background-color: #0b0fff; 
     color: #fff;
     border: none;
-    border-radius: 3px;
+    border-radius: 8px;
   }
      
   button:active {
